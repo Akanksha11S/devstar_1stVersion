@@ -97,7 +97,7 @@ export let tools = {
     },
     'PDF-ToolKit': {
         name: 'PDF-ToolKit',
-        icon: 'pdf',
+        icon: 'files',
         link: '/pdf-toolkit',
         description: "The pdf toolkit wil do every stuff where we want to do with the pdf such as converting and many nore things."
     },
