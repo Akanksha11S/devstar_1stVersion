@@ -94,5 +94,11 @@ export let tools = {
         icon: 'spider-web',
         link: '/robots-txt-generator',
         description: "The Robots.txt Generator is a must-have tool for developers to create the robots.txt file, which controls search engine crawlers' access to specific pages or directories on a website. This tool offers a user-friendly interface to define crawling rules, including allow and disallow directives, to ensure optimal search engine indexing and prevent unwanted content from being indexed. Create and customize your robots.txt file efficiently with this generator to enhance your website's search engine optimization (SEO) efforts."
-    }
+    },
+    'PDF-ToolKit': {
+        name: 'PDF-ToolKit',
+        icon: 'pdf',
+        link: '/pdf-toolkit',
+        description: "The pdf toolkit wil do every stuff where we want to do with the pdf such as converting and many nore things."
+    },
 };
